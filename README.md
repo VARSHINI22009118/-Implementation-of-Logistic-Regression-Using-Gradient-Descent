@@ -12,11 +12,17 @@ To write a program to implement the the Logistic Regression Using Gradient Desce
 ## Algorithm
 
 STEP 1. Start the program.
+
 STEP 2. Data Preprocessing: Read dataset, drop unnecessary columns, and encode categorical variables.
+
 STEP 3. Initialize Parameters: Initialize theta randomly and extract features (x) and target variable (y).
+
 STEP 4. Define Sigmoid Function: Implement the sigmoid function to transform linear outputs into probabilities.
+
 STEP 5. Define Loss Function and Gradient Descent: Define loss function using sigmoid output and implement gradient descent to minimize loss.
+
 STEP 6. Prediction and Evaluation: Use trained parameters to predict on dataset, calculate accuracy, and optionally predict placement status of new data points.
+
 STEP 7. End the program.
 
 ## Program:
